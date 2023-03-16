@@ -1,0 +1,34 @@
+{
+  "name": "zero-to-hero",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scoheart/Zero-to-Hero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scoheart/Zero-to-Hero/issues"
+  },
+  "homepage": "https://github.com/Scoheart/Zero-to-Hero#readme",
+  "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "vitepress": "^1.0.0-alpha.58"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.e7dbb61d.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/advanced/CSS in JavaScript/UnoCSS.md"}'),n={name:"front-end/advanced/CSS in JavaScript/UnoCSS.md"};function o(r,c,s,d,i,p){return a(),t("div")}const f=e(n,[["render",o]]);export{_ as __pageData,f as default};
