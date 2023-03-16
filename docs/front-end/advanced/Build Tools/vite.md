@@ -34,5 +34,4 @@ yarn vite build
 
 > vite 不仅可以打包，自带HMR功能
 
-![image-20230316213751984](C:\Users\Admin_Scoheart\AppData\Roaming\Typora\typora-user-images\image-20230316213751984.png)
 
