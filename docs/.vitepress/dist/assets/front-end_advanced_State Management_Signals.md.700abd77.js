@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.e7dbb61d.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/advanced/State Management/Signals.md"}'),n={name:"front-end/advanced/State Management/Signals.md"};function r(o,s,c,d,i,p){return t(),a("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

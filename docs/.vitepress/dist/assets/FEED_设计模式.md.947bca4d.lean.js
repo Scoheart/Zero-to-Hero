@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,Q as r}from"./chunks/framework.e7dbb61d.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"FEED/设计模式.md"}'),o={name:"FEED/设计模式.md"},s=r("",9),i=[s];function n(_,c,d,h,p,l){return t(),e("div",null,i)}const m=a(o,[["render",n]]);export{x as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.e7dbb61d.js";const h=JSON.parse('{"title":"prettier","description":"","frontmatter":{},"headers":[],"relativePath":"FEED/代码规范化.md"}'),o={name:"FEED/代码规范化.md"},e=l("",83),p=[e];function t(c,r,i,C,y,D){return n(),a("div",null,p)}const m=s(o,[["render",t]]);export{h as __pageData,m as default};

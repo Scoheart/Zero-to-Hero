@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.e7dbb61d.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/elementary/JavaScript/Closure.md"}'),a={name:"front-end/elementary/JavaScript/Closure.md"};function o(n,s,c,p,d,i){return r(),t("div")}const m=e(a,[["render",o]]);export{_ as __pageData,m as default};

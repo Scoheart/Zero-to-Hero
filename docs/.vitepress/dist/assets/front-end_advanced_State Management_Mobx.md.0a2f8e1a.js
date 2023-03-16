@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.e7dbb61d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/advanced/State Management/Mobx.md"}'),n={name:"front-end/advanced/State Management/Mobx.md"};function o(r,c,s,d,p,_){return a(),t("div")}const i=e(n,[["render",o]]);export{f as __pageData,i as default};
