@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.e7dbb61d.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/advanced/Build Tools/vite.md"}'),o={name:"front-end/advanced/Build Tools/vite.md"};function n(r,s,c,d,i,p){return a(),t("div")}const f=e(o,[["render",n]]);export{l as __pageData,f as default};

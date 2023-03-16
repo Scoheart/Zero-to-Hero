@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.e7dbb61d.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/elementary/JavaScript/JS Runtimes.md"}'),n={name:"front-end/elementary/JavaScript/JS Runtimes.md"};function r(o,s,c,i,m,p){return a(),t("div")}const f=e(n,[["render",r]]);export{d as __pageData,f as default};
