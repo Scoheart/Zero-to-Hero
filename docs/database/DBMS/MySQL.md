@@ -2,7 +2,7 @@
 
 ## database
 
-### create database 
+### create database
 
 ```sql
     CREATE DATABASE <DATABASE_NAME>;
